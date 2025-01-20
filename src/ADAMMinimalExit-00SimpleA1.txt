@@ -1,0 +1,12 @@
+Setting EXIT_MESSAGE to TRUE
+Greetings
+Loading assignment from 00SimpleA1
+Read configuration item ConfigurationItem[filename=00SimpleA1, command=NAME, data=00A1, lineNumber=1]
+Read configuration item ConfigurationItem[filename=00SimpleA1, command=START, data=2024-04-29T09:00:00.0Z[Europe/London], lineNumber=2]
+Read configuration item ConfigurationItem[filename=00SimpleA1, command=END, data=2024-04-30T09:00:00.0Z[Europe/London], lineNumber=3]
+Read configuration item ConfigurationItem[filename=00SimpleA1, command=HOURS, data=1, lineNumber=4]
+Assignment "00A1" for (Course not specified):
+	 1 hours per day,   2 days until the deadline of 2024-04-30T10:00+01:00[Europe/London]
+
+Goodbye
+
